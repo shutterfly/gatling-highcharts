@@ -9,10 +9,7 @@
 
 	<modules>
 		<module>gatling-charts-highcharts</module>
-		<!-- temporarily disable build of archetype while we address BUILD-867, caused by
-         "A required class was missing while executing org.apache.maven.plugins:maven-archetype-plugin:2.2:jar: org/apache/commons/lang/StringUtils"
 		<module>gatling-highcharts-maven-archetype</module> 
-		-->
 	</modules>
 
 	<licenses>
